@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 22E0-B926
+
+ Directory of C:\Users\cgokulv\Desktop\My Project
+
+09/14/2018  04:31 PM    <DIR>          .
+09/14/2018  04:31 PM    <DIR>          ..
+09/14/2018  04:31 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  106,347,790,336 bytes free
